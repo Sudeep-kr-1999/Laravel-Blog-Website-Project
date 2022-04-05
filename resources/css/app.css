@@ -3,10 +3,11 @@
 @import "tailwindcss/utilities";
 
 .background-picture {
-    background-image: url("https://cdn.pixabay.com/photo/2017/07/31/23/45/pen-2562078_960_720.jpg");
+    background-image: url("https://images.unsplash.com/photo-1617600433693-eef3435282a9?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1631&q=80");
     background-position: center center;
     background-repeat: no-repeat;
     background-attachment: fixed;
+    filter: brightness(0.5);
     background-size: cover;
     height: 600px;
 }

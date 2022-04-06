@@ -21,6 +21,11 @@
                Provide any suggestion you feel, We will be more than happy to hear from you.
             </h4>
         </div>
+         <div class="py-15">
+            <h5 class="text-3xl ">
+                Connect with us E-mail : sudeepagrawal1999@gmail.com
+            </h5>
+        </div>
     </div>
 
 
